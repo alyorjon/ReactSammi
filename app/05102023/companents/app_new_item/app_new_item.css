@@ -1,0 +1,11 @@
+.app-new-add{
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 4px;
+    box-shadow: 15px 15px 40px  rgba(0,0,0,0.2);
+    background-color:#fcfaf5;
+    /* width: 90%; */
+}
+.add-form{
+    color:#fefefe;
+}

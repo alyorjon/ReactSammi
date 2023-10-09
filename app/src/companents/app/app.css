@@ -1,0 +1,18 @@
+.app{
+    height: 120vh;
+    color: #000;
+}
+.content{
+    max-width: 1000px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+.appsearch{
+    margin-top: 15px;
+    padding: 1.5rem;
+    border-radius: 4px;
+    box-shadow: 15px 15px 40px  rgba(15, 11, 11, 0.2);
+    background-color:#fcfaf5;
+    
+}
